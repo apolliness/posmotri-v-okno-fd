@@ -46,7 +46,6 @@ ol {
 }
 
 .result {
-
   display: flex;
   flex-direction: column;
   gap: 16px;
@@ -121,7 +120,7 @@ ol {
   cursor: pointer;
 }
 
-.search-form__label:hover .search-form__label-text  {
+.search-form__label:hover .search-form__label-text {
   text-decoration: underline;
 }
 
