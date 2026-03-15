@@ -204,10 +204,9 @@ ol {
 }
 
 .content__details {
-  position: relative;
   display: flex;
   flex-direction: column;
-  gap: 26px;
+  gap: 22px;
   width: 396px;
 }
 
