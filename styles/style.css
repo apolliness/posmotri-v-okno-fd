@@ -193,7 +193,7 @@ ol {
 .content__details {
   display: flex;
   flex-direction: column;
-  gap: 26px;
+  gap: 21px;
   width: 396px;
 }
 
@@ -263,6 +263,7 @@ ol {
   flex-grow: 1;
   gap: 4px;
   width: 187px;
+  padding-top: 3px;
 }
 
 .content__video-card-title {
